@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040119"><visible><![CDATA[1]]></visible>
+<name><![CDATA[ELIS Enrollments]]></name>
+<summary><![CDATA[<p>All enrollments in any ELIS Class</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[30]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6ODcwOiJzZWxlY3QrJTBEJTBBKysrK2NvbmNhdCUyOCUyN2NsYXNzXyUyNyUyQ2Nscy5pZG51bWJlciUyOSthcytjb250ZXh0JTJDJTBEJTBBKysrK3Vzci5pZG51bWJlcithcyt1c2VyX2lkbnVtYmVyJTJDJTBEJTBBKysrK3Vzci51c2VybmFtZSthcyt1c2VyX3VzZXJuYW1lJTJDJTBEJTBBKysrK3Vzci5lbWFpbCthcyt1c2VyX2VtYWlsJTJDJTBEJTBBKysrK0ZST01fVU5JWFRJTUUlMjhjZS5lbnJvbG1lbnR0aW1lJTI5K2FzK2Vucm9sbWVudHRpbWUlMkMlMEQlMEErKysrbnVsbCthcythc3NpZ250aW1lJTJDJTBEJTBBKysrK2lmJTI4Y2UuY29tcGxldGV0aW1lJTNFMCUyQ0ZST01fVU5JWFRJTUUlMjhjZS5jb21wbGV0ZXRpbWUlMjklMkNudWxsJTI5K2FzK2NvbXBsZXRldGltZSUyQyUwRCUwQSsrKytjZS5jb21wbGV0ZXN0YXR1c2lkJTJDJTBEJTBBKysrK2NlLmdyYWRlJTJDJTBEJTBBKysrK2NlLmNyZWRpdHMlMkMlMEQlMEErKysrY2UubG9ja2VkJTJDJTBEJTBBKysrK251bGwrYXMrcm9sZSUyQyUwRCUwQSUwOXVzci5maXJzdG5hbWUlMkMlMEQlMEErKysrdXNyLmxhc3RuYW1lJTJDJTBEJTBBKysrK2Nycy5uYW1lK2FzK2NvdXJzZV9uYW1lJTBEJTBBZnJvbSUwRCUwQSUwOXByZWZpeF9sb2NhbF9lbGlzcHJvZ3JhbV9jbHMrY2xzJTBEJTBBJTA5am9pbitwcmVmaXhfbG9jYWxfZWxpc3Byb2dyYW1fY2xzX2Vucm9sK2NlK29uK2NlLmNsYXNzaWQrJTNEK2Nscy5pZCUwRCUwQSsrKytqb2luK3ByZWZpeF9sb2NhbF9lbGlzcHJvZ3JhbV91c3IrdXNyK29uK3Vzci5pZCslM0QrY2UudXNlcmlkJTBEJTBBKysrK2pvaW4rcHJlZml4X2xvY2FsX2VsaXNwcm9ncmFtX2NycytjcnMrb24rY3JzLmlkKyUzRCtjbHMuY291cnNlaWQlMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[5]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
